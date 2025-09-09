@@ -56,3 +56,6 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 
 Les contributions sont les bienvenues ! N'hésitez pas à soumettre une issue ou une pull request.
 
+## Démonstration
+
+Pour avoir une idée de la présentation de l'application, vous pouvez télécharger les fichiers `exercice1` (image) et `exercice.mp4` (vidéo) inclus dans ce dépôt.
